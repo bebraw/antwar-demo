@@ -1,0 +1,18 @@
+<feed xmlns="http://www.w3.org/2005/Atom"><title >Antwar Boilerplate</title><link href="undefinedatom.xml" rel="self"> </link><link href="undefined"> </link><updated >2015-06-04T13:44:45+03:00</updated><id >undefined</id><author ><name >Dr A N Twar</name><email >antwar@antwar.com</email></author><entry ><title >This is the beginning of a beautiful friendship</title><id >athisisthebeginningofabeautifulfriendship2014-02-15t00:00:00+02:00</id><link href="undefinedblog/2015-02-14-first_post"></link><updated >2014-02-15T00:00:00+02:00</updated><content type="html">&lt;p&gt;This is a blog post.&lt;/p&gt;
+&lt;p&gt;You can write Markdown in it! More specifically, the kind of Markdown that&amp;#39;s called &lt;a href=&quot;http://commonmark.org/&quot;&gt;Commonmark&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;heading-&quot;&gt;Heading!&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lists&lt;/li&gt;
+&lt;li&gt;Are&lt;/li&gt;
+&lt;li&gt;Awesome&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dQw4w9WgXcQ&quot;&gt;Links&lt;/a&gt; can take you to wonderful places.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Code code code code&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The headerImage in the frontmatter (that&amp;#39;s the part in the beginning of the file) is used by the theme to make your posts look good. It&amp;#39;s optional though.&lt;/p&gt;
+</content></entry><entry ><title >Another post</title><id >aanotherpost2013-12-15t00:00:00+02:00</id><link href="undefinedblog/2015-01-15-second-post"></link><updated >2013-12-15T00:00:00+02:00</updated><content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</content></entry></feed>
