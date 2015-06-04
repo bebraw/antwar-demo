@@ -1,0 +1,26 @@
+{
+  "name": "antwar-boilerplate",
+  "description": "Boilerplate for Antwar",
+  "author": "Juho Vepsalainen <bebraw@gmail.com>",
+  "version": "0.2.7",
+  "dependencies": {
+    "antwar-default-theme": "antwarjs/default-theme",
+    "antwar-rss-plugin": "antwarjs/rss-plugin",
+    "node-libs-browser": "^0.5.2",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antwarjs/boilerplate.git"
+  },
+  "homepage": "https://github.com/antwarjs/boilerplate",
+  "bugs": {
+    "url": "https://github.com/antwarjs/boilerplate/issues"
+  },
+  "keywords": [
+    "antwar",
+    "boilerplate"
+  ],
+  "licenses": "MIT"
+}
